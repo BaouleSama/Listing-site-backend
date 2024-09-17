@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "es2015"
+        ],
+        "module": "commonjs",
+        "outDir": "dist",
+        "sourceMap": true,
+        "removeComments": true,
+        "strict": true,
+        "target": "es2015",
+        "strictPropertyInitialization": false,
+        "noImplicitAny": false,
+        "noEmitOnError": true,
+        "noUnusedParameters": false,
+        "noImplicitReturns": true,
+        "noUnusedLocals": true,
+        "esModuleInterop": true,
+    },
+    "include": [
+        "src"
+    ]
+}
